@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Runtime data: created when the tool runs
+protected_files/
+backups/
+quarantine/
+logs/
